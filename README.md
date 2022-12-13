@@ -1,1 +1,1 @@
-https://uscwebdev.github.io/itp104-submissions-gkim1611/
+https://gkim1611.github.io
